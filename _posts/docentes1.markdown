@@ -1,9 +1,8 @@
 ---
 layout: default
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Time Docente
 ---
-# Membros
 ## Líder
 - Prof. Dr. ​Rennan Ferreira Dantas - [Lattes](http://http//lattes.cnpq.br/0192579272041443)
 ## Vice-líder
