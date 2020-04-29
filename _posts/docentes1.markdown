@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Services
+category: team
 title: Time Docente
 ---
 ## Líder
