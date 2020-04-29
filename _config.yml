@@ -45,4 +45,11 @@ compress_html:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-seo-Tag
+
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'Pesquisa', link: '/research'}
+  - {name: 'Time', link: '/team'}
+  - {name: 'Sobre', link: '/about'}
+  - {name: 'Contato', link: '/contact'}
