@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://crateus.ufc.br/gohan
 title: GOHaN
 email: your-email@domain.com
 description: > # "Write an awesome description for your new site here.
@@ -22,10 +22,10 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+#social:
+  #- title: twitter
+  #  url: https://twitter.com/SBootstrap
+  #- title: github
+  #  url: https://github.com/IronSummitMedia/startbootstrap
   #- title: linkedin
   #  url:
