@@ -7,7 +7,7 @@ title: GOHaN
 email: your-email@domain.com
 description: > # "Write an awesome description for your new site here.
   Graphs, Optimization, Heuristics and Networks
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+copyright: 'Copyright &copy; 2020 GOHaN. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -27,5 +27,5 @@ social:
     url: https://twitter.com/SBootstrap
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url:
+  #- title: linkedin
+  #  url:
