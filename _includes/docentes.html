@@ -1,52 +1,12 @@
-<section id="docentes">
+<section id="docentes" class="container content-section">
 <!-- Page Content -->
-{% for docente in site.docentes reversed %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
-    <div class="content-section-a">
+<h4>Membros</h4>
+<p><strong>Líder</strong><br>
+Prof. Dr. ​Rennan Ferreira Dantas – <a href="http://​http://lattes.cnpq.br/0192579272041443" target="_blank" rel="noopener">Lattes</a><br>
+<strong>Vice-líder</strong><br>
+Prof. Ms. Luiz Alberto do Carmo Viana – <a href="http://lattes.cnpq.br/2028165237751191" target="_blank" rel="noopener">Lattes</a></p>
+<h5>Docente pesquisador</h5>
+<p>Prof. Ms. Filipe Fernandes dos Santos Brasil de Matos – <a href="http://lattes.cnpq.br/8629788499493675" target="_blank" rel="noopener">Lattes</a><br>
+Profa. Ms. Lisieux Marie Marinho dos Santos Andrade – <a href="http://lattes.cnpq.br/8824525263721786" target="_blank" rel="noopener">Lattes</a></p>
 
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ docente.title }}</h2>
-                    <div class="lead">{{ docente.content }}</div>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/docentes/{{ docente.img }}" alt="">
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-a -->
-    {% else %}
-
-    <div class="content-section-b">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ docente.title }}</h2>
-                    <div class="lead">{{ docente.content }}</div>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/docentes/{{ docente.img }}" alt="">
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-b -->
-    {% endif %}
-{% endfor %}
 </section>
