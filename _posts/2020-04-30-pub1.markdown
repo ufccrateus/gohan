@@ -1,0 +1,8 @@
+---
+layout: default
+img: sbpo.png
+category: Publications
+title: Uma Abordagem Híbrida Exata-Heurística Aplicada ao Problema do Ciclo Mediano sem Restrições de Capacidade
+---
+
+etc etc etc
