@@ -1,0 +1,8 @@
+---
+layout: default
+img: sbpo.png
+category: Publications
+title: Um Algoritmo Exato para o Problema da Biclique Induzida Balanceada Máxima com Partições em Cliques e Bonecas Russas
+---
+
+etc etc etc
